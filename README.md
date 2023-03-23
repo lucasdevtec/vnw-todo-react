@@ -26,11 +26,11 @@ Develop my experience with React, improving my knowledge and learning new featur
 
 ### Built with
 
-- Semantic [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) For markup.
+- Semantic [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) for markup.
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) For custom properties.
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) For interactivity.
 - [React](https://reactjs.org/) - JS library.
-- [Styled-Components] - React library that allows us to create styling components by writing CSS code inside a JavaScript file.
+- [Styled-Components](https://styled-components.com/) - React library that allows us to create styling components by writing CSS code inside a JavaScript file.
 - [Vite](https://vitejs.dev/) - Vite is a tool with the aim of creating a simple and super fast development environment.
 
 ### Guide
